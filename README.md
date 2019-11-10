@@ -62,6 +62,7 @@ I will just highlight one of them here, [sparktk dicom](https://github.com/trust
 A few other thoughts I'm having:
 1. Utilizing workflow tools, such as, Airflow or Kubeflow to easily automate this process.
 2. Utilizing [Google Cloud HealthCare API](https://cloud.google.com/blog/topics/healthcare-life-sciences/getting-to-know-the-google-cloud-healthcare-api-part-3) https://cloud.google.com/healthcare/
+3. Also, [SimpleITK](https://github.com/SimpleITK/SimpleITK) is good library too
 
 ------------------------------
 
